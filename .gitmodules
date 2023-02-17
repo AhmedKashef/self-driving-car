@@ -1,0 +1,3 @@
+[submodule "CV_exercises/CarND-Camera-Calibration"]
+	path = CV_exercises/CarND-Camera-Calibration
+	url = git@github.com:AhmedKashef/CarND-Camera-Calibration.git
